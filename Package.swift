@@ -76,8 +76,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "InternalCollectionsUtilities",
-            url: "https://github.com/swift-precompiled/swift-collections/releases/download/1.6.0/InternalCollectionsUtilities-24e4848a45ed3409d366ee37ef693d924b276f63513a6918692aed6e1758579f.xcframework.zip",
-            checksum: "24e4848a45ed3409d366ee37ef693d924b276f63513a6918692aed6e1758579f"
+            url: "https://github.com/swift-precompiled/swift-collections/releases/download/1.6.0/InternalCollectionsUtilities-734d76c4630b5a515a63273b8a0ba2b3f96c56943f267718f88f3a361cdd498d.xcframework.zip",
+            checksum: "734d76c4630b5a515a63273b8a0ba2b3f96c56943f267718f88f3a361cdd498d"
         ),
         .target(
             name: "BasicContainers_Aggregation",
@@ -89,8 +89,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "BasicContainers",
-            url: "https://github.com/swift-precompiled/swift-collections/releases/download/1.6.0/BasicContainers-0cf425c2343ba189067b0ebc98ddca54f0df009d1351714a47df5bf83536f02a.xcframework.zip",
-            checksum: "0cf425c2343ba189067b0ebc98ddca54f0df009d1351714a47df5bf83536f02a"
+            url: "https://github.com/swift-precompiled/swift-collections/releases/download/1.6.0/BasicContainers-e7b64a70e55884e9c9054e7e2d7707aeef759d5c18aa33afd7fcac1d850a1418.xcframework.zip",
+            checksum: "e7b64a70e55884e9c9054e7e2d7707aeef759d5c18aa33afd7fcac1d850a1418"
         ),
         .target(
             name: "BitCollections_Aggregation",
@@ -98,8 +98,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "BitCollections",
-            url: "https://github.com/swift-precompiled/swift-collections/releases/download/1.6.0/BitCollections-aa45a239c4464de5ad4d1321141fc6ae984d4b92feaa231ecb4166159c71c6ac.xcframework.zip",
-            checksum: "aa45a239c4464de5ad4d1321141fc6ae984d4b92feaa231ecb4166159c71c6ac"
+            url: "https://github.com/swift-precompiled/swift-collections/releases/download/1.6.0/BitCollections-a2ad04f4d0374b0dbc17c332fbef21abe589582c8798b5fb053f6b2654b80c79.xcframework.zip",
+            checksum: "a2ad04f4d0374b0dbc17c332fbef21abe589582c8798b5fb053f6b2654b80c79"
         ),
         .target(
             name: "ContainersPreview_Aggregation",
@@ -107,8 +107,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "ContainersPreview",
-            url: "https://github.com/swift-precompiled/swift-collections/releases/download/1.6.0/ContainersPreview-c5e9608ec0a580276f7cd62d75b1ed82f4113ae4df9128f166b2831f3b61e6d9.xcframework.zip",
-            checksum: "c5e9608ec0a580276f7cd62d75b1ed82f4113ae4df9128f166b2831f3b61e6d9"
+            url: "https://github.com/swift-precompiled/swift-collections/releases/download/1.6.0/ContainersPreview-f584df9233e9b04284f2b2b475e2b4c8d3d2d88d61848f36cce802de2aa22c57.xcframework.zip",
+            checksum: "f584df9233e9b04284f2b2b475e2b4c8d3d2d88d61848f36cce802de2aa22c57"
         ),
         .target(
             name: "DequeModule_Aggregation",
@@ -120,8 +120,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "DequeModule",
-            url: "https://github.com/swift-precompiled/swift-collections/releases/download/1.6.0/DequeModule-f5e9cf7abdb3e8af24184fea4d0e3d1f6483a8894c87816efe8fca2f83667d0f.xcframework.zip",
-            checksum: "f5e9cf7abdb3e8af24184fea4d0e3d1f6483a8894c87816efe8fca2f83667d0f"
+            url: "https://github.com/swift-precompiled/swift-collections/releases/download/1.6.0/DequeModule-26d40ec23bf65ba34005299822348e5111e186f8ffe0ed545f1b62624c6a36ca.xcframework.zip",
+            checksum: "26d40ec23bf65ba34005299822348e5111e186f8ffe0ed545f1b62624c6a36ca"
         ),
         .target(
             name: "HashTreeCollections_Aggregation",
@@ -129,8 +129,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "HashTreeCollections",
-            url: "https://github.com/swift-precompiled/swift-collections/releases/download/1.6.0/HashTreeCollections-459d329efe59ffc0e9d42b1b1a262b7a00068f85885fa8fcb30ccb4d9b6554c2.xcframework.zip",
-            checksum: "459d329efe59ffc0e9d42b1b1a262b7a00068f85885fa8fcb30ccb4d9b6554c2"
+            url: "https://github.com/swift-precompiled/swift-collections/releases/download/1.6.0/HashTreeCollections-42cd53760551b9de6633ab739b66da7ec89cfc4d64e76858613839bfa9d6a508.xcframework.zip",
+            checksum: "42cd53760551b9de6633ab739b66da7ec89cfc4d64e76858613839bfa9d6a508"
         ),
         .target(
             name: "HeapModule_Aggregation",
@@ -138,8 +138,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "HeapModule",
-            url: "https://github.com/swift-precompiled/swift-collections/releases/download/1.6.0/HeapModule-9117ad7ba7899ad31530090669066a7cae07b99e5163ad5042799d8a6558d3dc.xcframework.zip",
-            checksum: "9117ad7ba7899ad31530090669066a7cae07b99e5163ad5042799d8a6558d3dc"
+            url: "https://github.com/swift-precompiled/swift-collections/releases/download/1.6.0/HeapModule-222859a1bfbc9a19501be8d62bae72180b3d2c8a6b959f8cd45c5cdb587c1704.xcframework.zip",
+            checksum: "222859a1bfbc9a19501be8d62bae72180b3d2c8a6b959f8cd45c5cdb587c1704"
         ),
         .target(
             name: "OrderedCollections_Aggregation",
@@ -147,8 +147,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "OrderedCollections",
-            url: "https://github.com/swift-precompiled/swift-collections/releases/download/1.6.0/OrderedCollections-e497e0b3ea6bf922effffce51ceba8f035976fce0c0cc80793f992edd99331ec.xcframework.zip",
-            checksum: "e497e0b3ea6bf922effffce51ceba8f035976fce0c0cc80793f992edd99331ec"
+            url: "https://github.com/swift-precompiled/swift-collections/releases/download/1.6.0/OrderedCollections-894017a11d4e7ebf37bcc9f890d63ce3571e7ce8b0b44e838e5a0b9a73547bcb.xcframework.zip",
+            checksum: "894017a11d4e7ebf37bcc9f890d63ce3571e7ce8b0b44e838e5a0b9a73547bcb"
         ),
         .target(
             name: "_RopeModule_Aggregation",
@@ -156,8 +156,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "_RopeModule",
-            url: "https://github.com/swift-precompiled/swift-collections/releases/download/1.6.0/_RopeModule-52c0f619159921970f0c2f28f21412bc3e03b0a54099c7a9daa6e1ffc4b72b30.xcframework.zip",
-            checksum: "52c0f619159921970f0c2f28f21412bc3e03b0a54099c7a9daa6e1ffc4b72b30"
+            url: "https://github.com/swift-precompiled/swift-collections/releases/download/1.6.0/_RopeModule-d1cbd070fd3b3332797f181bced61aa9acf488dbfad18a453f3061573fedd67e.xcframework.zip",
+            checksum: "d1cbd070fd3b3332797f181bced61aa9acf488dbfad18a453f3061573fedd67e"
         ),
         .target(
             name: "TrailingElementsModule_Aggregation",
@@ -165,8 +165,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "TrailingElementsModule",
-            url: "https://github.com/swift-precompiled/swift-collections/releases/download/1.6.0/TrailingElementsModule-f501e72b83c245c408786a5900cacdaaa8e51f8a870764c321318f5c45db094e.xcframework.zip",
-            checksum: "f501e72b83c245c408786a5900cacdaaa8e51f8a870764c321318f5c45db094e"
+            url: "https://github.com/swift-precompiled/swift-collections/releases/download/1.6.0/TrailingElementsModule-d4f3fefd3bb47d0cd2685d794bd39fbfbba0d9ff7494ae36b20fc8d9f52770e9.xcframework.zip",
+            checksum: "d4f3fefd3bb47d0cd2685d794bd39fbfbba0d9ff7494ae36b20fc8d9f52770e9"
         ),
         .target(
             name: "SortedCollections_Aggregation",
@@ -174,8 +174,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "SortedCollections",
-            url: "https://github.com/swift-precompiled/swift-collections/releases/download/1.6.0/SortedCollections-9a69188b9a095cd5b87b401cfa7eda804cffcf03ee333b9f18fc73ba69f03ccc.xcframework.zip",
-            checksum: "9a69188b9a095cd5b87b401cfa7eda804cffcf03ee333b9f18fc73ba69f03ccc"
+            url: "https://github.com/swift-precompiled/swift-collections/releases/download/1.6.0/SortedCollections-6a6d1d5dca3d9505e11452a86f7994d5ec1b30df41a290dc19aefaa754bc590e.xcframework.zip",
+            checksum: "6a6d1d5dca3d9505e11452a86f7994d5ec1b30df41a290dc19aefaa754bc590e"
         ),
         .target(
             name: "Collections_Aggregation",
@@ -191,8 +191,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "Collections",
-            url: "https://github.com/swift-precompiled/swift-collections/releases/download/1.6.0/Collections-49175f3d6924efc573a6d42a5487342564099a7e030f1e1fe5dd049551723d6e.xcframework.zip",
-            checksum: "49175f3d6924efc573a6d42a5487342564099a7e030f1e1fe5dd049551723d6e"
+            url: "https://github.com/swift-precompiled/swift-collections/releases/download/1.6.0/Collections-428e9bb27e3119c36e77e90f730f5b51057474829850b418a3e30b981ab1f25e.xcframework.zip",
+            checksum: "428e9bb27e3119c36e77e90f730f5b51057474829850b418a3e30b981ab1f25e"
         )
     ]
 )
